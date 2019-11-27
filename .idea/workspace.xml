@@ -2,6 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a549c4-82e2-402f-a0de-e75d3053855c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithims.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/CountingSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/InsertionSort2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/InsertionSort3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/QuickSort2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/QuickSortLastElementPivot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/QuickSortMedianElementPivot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/SelectionSort2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/SortingProgram/AlternateSorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/SortingProgram/FindTwoNumbersWhoseSumCloseToZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/SortingProgram/MergeTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/Sorting/SortingProgram/UnionAndIntersection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rearrange/DoubleFirstElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rearrange/EvenPositionsGreaterThanOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rearrange/MinimumSwaps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rearrange/RearragneZeros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rearrange/RearrangeArrayNegativeandPositive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rearrange/RemoveDuplicateElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rearrange/SmallestToLargestAlternative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rotation/ArrayRotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rotation/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rotation/FindMissingNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Arrays/rotation/FindPivotElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/BinaryTree/HeightOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/BinaryTree/LevelOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/BinaryTree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/BinaryTree/ReverseLevelOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/BinaryTree/SpiralOrderPrinting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/BinaryTree/isTreeIdentical.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Graphs/AdjancyList$DrawGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Graphs/AdjancyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Graphs/AdjancyMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Graphs/BreadthFirstSearchInGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Graphs/DepthFirstSearchInGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Graphs/GraphBasics$Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/Graphs/GraphBasics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/IntersectionofTwoSortedLinkedList$LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/IntersectionofTwoSortedLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/LoopInLinkedList$LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/LoopInLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/LruCache$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/LruCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/MergeSortedLinkedList$LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/MergeSortedLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/RemoveDuplicateElementFromSortedLinkedList$LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/RemoveDuplicateElementFromSortedLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/RemoveDuplicateElementsFromUnsortedLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/SampleDoublyLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/SampleDoublyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/SampleLinkedList$LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/LinkedList/SampleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/SolveSudoku.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithims/SolveVersion.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/Sorting/CountingSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/Sorting/InsertionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/Sorting/InsertionSort2.java" afterDir="false" />
@@ -207,7 +272,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -347,7 +412,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574879974513" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574880025114" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
