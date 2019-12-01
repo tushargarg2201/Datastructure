@@ -1,6 +1,5 @@
 package Arrays.rearrange;
 
-import javax.xml.soap.SOAPPart;
 
 /**
  * Program No 10.

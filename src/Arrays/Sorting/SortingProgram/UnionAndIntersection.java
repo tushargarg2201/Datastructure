@@ -51,6 +51,10 @@ public class UnionAndIntersection {
         i = j = k = 0;
         int prevIndex = 0;
 
+
+
+
+
         while (i < arr1.length && j < arr2.length) {
             if (k == 0) {
                 prevIndex = k;

@@ -1,7 +1,5 @@
 package LinkedList;
 
-import javax.xml.soap.Node;
-
 public class LoopInLinkedList {
     public static void main(String[] args) {
         LoopInLinkedList loopInLinkedList = new LoopInLinkedList();
