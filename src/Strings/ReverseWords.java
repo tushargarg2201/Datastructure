@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class ReverseWords {
     public static void main(String[] args) {
-        String string = "Hello World";
+        String string = "apps best agoda";
         Stack<Character> stack = new Stack<>();
 
         for(int i = 0; i < string.length(); i++) {

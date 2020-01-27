@@ -15,7 +15,7 @@ public class RearragneZeros {
         int count = 0;
 
         while (i < j) {
-            while (arr[i] > 0) {
+            while (arr[i] != 0) {
                 i++;
                 count++;
             }

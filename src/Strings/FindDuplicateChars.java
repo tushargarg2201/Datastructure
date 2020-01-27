@@ -23,7 +23,7 @@ public class FindDuplicateChars {
         }
        Set<Map.Entry<Character, Integer>> entrySet = hashMap.entrySet();
        for (Map.Entry<Character, Integer> entry : entrySet) {
-           if (entry.getValue() > 1) {
+           if (entry.getValue() >=1 ) {
                System.out.println(entry.getKey() + " " + entry.getValue());
            }
        }

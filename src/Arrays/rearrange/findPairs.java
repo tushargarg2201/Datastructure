@@ -14,7 +14,7 @@ public class findPairs {
             }
             for (int i = 0; i < array.length; i++) {
                 int targetVal = sum-array[i];
-                if (hashSet.contains(targetVal)) {
+                if    (hashSet.contains(targetVal)) {
                     System.out.println("Pair with given sum " + sum + " is (" + array[i] + ", " + targetVal + ")");
                 }
             }

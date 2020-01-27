@@ -10,16 +10,16 @@ public class RemoveDuplicateElementFromSortedLinkedList {
         obj.createLinkedList(10);
         obj.createLinkedList(20);
         obj.createLinkedList(20);
-        obj.createLinkedList(20);
         obj.createLinkedList(30);
-        obj.createLinkedList(40);
-        obj.createLinkedList(40);
-        obj.createLinkedList(40);
-        obj.createLinkedList(40);
-        obj.createLinkedList(50);
-        obj.createLinkedList(10);
-        obj.createLinkedList(10);
         obj.createLinkedList(20);
+//        obj.createLinkedList(40);
+//        obj.createLinkedList(40);
+//        obj.createLinkedList(40);
+//        obj.createLinkedList(40);
+//        obj.createLinkedList(50);
+//        obj.createLinkedList(10);
+//        obj.createLinkedList(10);
+//        obj.createLinkedList(20);
 
 
         obj.displayLinkedList();

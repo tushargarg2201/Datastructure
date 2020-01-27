@@ -6,7 +6,7 @@ public class FindMaxSumInContigousSubarray {
         int currentSum = array[0];
         int maxSumSoFar = array[0];
 
-        for (int i = 0;  i < array.length; i++) {
+        for (int i = 1;  i < array.length; i++) {
             currentSum = Math.max(array[i], currentSum + array[i]);
             if (currentSum > maxSumSoFar) {
                 maxSumSoFar = currentSum;

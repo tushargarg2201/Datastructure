@@ -3,8 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="13c459e2-b9c2-44d8-a96a-2740cdab75b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/SolveSudoku.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SolveSudoku.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rearrange/FindMaxSumInContigousSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rearrange/FindMaxSumInContigousSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rearrange/RearragneZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rearrange/RearragneZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rotation/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rotation/ArrayRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/LinkedList/RemoveDuplicateElementFromSortedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/LinkedList/RemoveDuplicateElementFromSortedLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Strings/FindDuplicateChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Strings/FindDuplicateChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Strings/ReverseIndividualWordsWithoutExtraSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Strings/ReverseIndividualWordsWithoutExtraSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/rearrange/FindMaxSumInContigousSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rearrange/FindMaxSumInContigousSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/rearrange/RearragneZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rearrange/RearragneZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/rearrange/findPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rearrange/findPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/rotation/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rotation/ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicateElementFromSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicateElementFromSortedLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/FindDuplicateChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/FindDuplicateChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/ReverseIndividualWordsWithoutExtraSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/ReverseIndividualWordsWithoutExtraSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/ReverseWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +25,9 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="51" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Datastructure" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Android2020/Android_codingwithmitchtutorials/DependencyInjection_codinginflow/DependencyInjection" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -45,13 +61,13 @@
       <recent name="D:\SelfLearning\Datastructure\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BreadthFirstSearchInGraph">
-    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.AbstractFactoryDesignPattern.AbstractFactoryTest" />
+  <component name="RunManager" selected="Application.FindTwoNumbersWithoutPair">
+    <configuration name="FindTwoNumbersWithoutPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.rearrange.FindTwoNumbersWithoutPair" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPattern.AbstractFactoryDesignPattern.*" />
+          <option name="PATTERN" value="Arrays.rearrange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreadthFirstSearchInGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.BreadthFirstSearchInGraph" />
+    <configuration name="RemoveDuplicateElementFromSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.RemoveDuplicateElementFromSortedLinkedList" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graphs.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuilderPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.BuilderDesignPattern.BuilderPatternTest" />
+    <configuration name="ReverseIndividualWordsWithoutExtraSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ReverseIndividualWordsWithoutExtraSpace" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPattern.BuilderDesignPattern.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DepthFirstSearchInGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.DepthFirstSearchInGraph" />
+    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ReverseWords" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graphs.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProblems.staticinnerclasses.staticTest" />
+    <configuration name="findPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.rearrange.findPairs" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProblems.staticinnerclasses.*" />
+          <option name="PATTERN" value="Arrays.rearrange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BreadthFirstSearchInGraph" />
-        <item itemvalue="Application.DepthFirstSearchInGraph" />
-        <item itemvalue="Application.BuilderPatternTest" />
-        <item itemvalue="Application.staticTest" />
-        <item itemvalue="Application.AbstractFactoryTest" />
+        <item itemvalue="Application.FindTwoNumbersWithoutPair" />
+        <item itemvalue="Application.ReverseIndividualWordsWithoutExtraSpace" />
+        <item itemvalue="Application.ReverseWords" />
+        <item itemvalue="Application.findPairs" />
+        <item itemvalue="Application.RemoveDuplicateElementFromSortedLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -159,10 +175,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1577705460747" />
-    <state x="318" y="232" width="644" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577352703661">
+    <state x="318" y="232" width="644" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579625203444">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="318" y="232" width="644" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1577352703661" />
+    <state x="318" y="232" width="644" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1579625203444" />
     <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577674611496">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -171,42 +187,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="11" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1280.680@0.0.1280.680" timestamp="1577334310278" />
-    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1577418901320">
+    <state width="427" height="438" key="DebuggerActiveHint" timestamp="1579631858567">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577418901320" />
-    <state width="1237" height="267" key="GridCell.Tab.0.bottom" timestamp="1579256936576">
+    <state width="427" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1579631858567" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1580116131846">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579256936576" />
-    <state width="1237" height="267" key="GridCell.Tab.0.center" timestamp="1579256936576">
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580116131846" />
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom" timestamp="1580131727920">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579256936576" />
-    <state width="1237" height="267" key="GridCell.Tab.0.left" timestamp="1579256936576">
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580131727920" />
+    <state width="1237" height="131" key="GridCell.Tab.0.center" timestamp="1580131727920">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579256936576" />
-    <state width="1237" height="267" key="GridCell.Tab.0.right" timestamp="1579256936576">
+    <state width="1237" height="131" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580131727920" />
+    <state width="1237" height="131" key="GridCell.Tab.0.left" timestamp="1580131727920">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579256936576" />
-    <state width="1237" height="267" key="GridCell.Tab.1.bottom" timestamp="1577352725843">
+    <state width="1237" height="131" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580131727920" />
+    <state width="1237" height="131" key="GridCell.Tab.0.right" timestamp="1580131727920">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577352725843" />
-    <state width="1237" height="267" key="GridCell.Tab.1.center" timestamp="1577352725843">
+    <state width="1237" height="131" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580131727920" />
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom" timestamp="1580129776429">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577352725843" />
-    <state width="1237" height="267" key="GridCell.Tab.1.left" timestamp="1577352725843">
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580129776429" />
+    <state width="1237" height="201" key="GridCell.Tab.1.center" timestamp="1580129776429">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577352725843" />
-    <state width="1237" height="267" key="GridCell.Tab.1.right" timestamp="1577352725843">
+    <state width="1237" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580129776429" />
+    <state width="1237" height="201" key="GridCell.Tab.1.left" timestamp="1580129776429">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="267" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577352725843" />
+    <state width="1237" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580129776429" />
+    <state width="1237" height="201" key="GridCell.Tab.1.right" timestamp="1580129776429">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580129776429" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1577384495234">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -223,6 +243,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="0" width="638" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576828809871" />
+    <state x="91" y="0" key="new project wizard" timestamp="1580116095955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580116095955" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1577671287529">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -231,6 +255,37 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1577384206321" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rearrange/RepeatedElementExceptOne.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rotation/ArrayRotation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rotation/ArrayRotation.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/RemoveDuplicateElementFromSortedLinkedList.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rearrange/FindTwoNumbersWithoutPair.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Datastructure$SelectionSort2.ic" NAME="SelectionSort2 Coverage Results" MODIFIED="1576735933083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -22,8 +22,10 @@ public class ArrayRotation {
 
         for (int i=0;i<tempArr.length;i++)
         {
-            arr[arr.length-numRotation]=tempArr[i];
-            numRotation--;
+            arr[shiftIndex] = tempArr[i];
+            shiftIndex++;
+            //arr[arr.length-numRotation]=tempArr[i];
+            //numRotation--;
         }
 
         for (int i=0;i<arr.length;i++)
