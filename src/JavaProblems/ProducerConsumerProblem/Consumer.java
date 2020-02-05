@@ -17,21 +17,18 @@ public class Consumer implements Runnable {
         while (true) {
             synchronized (sharedQueue) {
                 while (sharedQueue.isEmpty()) {
-                    synchronized (sharedQueue) {
-                        System.out.println("Queue is empty " + Thread.currentThread().getName()
+                    System.out.println("Queue is empty " + Thread.currentThread().getName()
                                 + " is waiting , size: " + sharedQueue.size());
-                        try {
-                            sharedQueue.wait();
-                        } catch (InterruptedException e) {
+                    try {
+                        sharedQueue.wait();
+                    } catch (InterruptedException e) {
                             e.printStackTrace();
-                        }
                     }
                 }
                 int number = (Integer) sharedQueue.remove(0);
                 System.out.println("comsumed element is--->" + number);
                 sharedQueue.notify();
             }
-
         }
     }
 }
