@@ -3,20 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="13c459e2-b9c2-44d8-a96a-2740cdab75b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rearrange/FindMaxSumInContigousSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rearrange/FindMaxSumInContigousSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rearrange/RearragneZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rearrange/RearragneZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rotation/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rotation/ArrayRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/LinkedList/RemoveDuplicateElementFromSortedLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/LinkedList/RemoveDuplicateElementFromSortedLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Strings/FindDuplicateChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Strings/FindDuplicateChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rotation/FindMissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Arrays/rotation/FindMissingNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Datastructure/Strings/ReverseIndividualWordsWithoutExtraSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Datastructure/Strings/ReverseIndividualWordsWithoutExtraSpace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/rearrange/FindMaxSumInContigousSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rearrange/FindMaxSumInContigousSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/rearrange/RearragneZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rearrange/RearragneZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/rearrange/findPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rearrange/findPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/rotation/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rotation/ArrayRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicateElementFromSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicateElementFromSortedLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/FindDuplicateChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/FindDuplicateChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/rotation/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rotation/FindMissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProblems/ProducerConsumerProblem/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProblems/ProducerConsumerProblem/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProblems/ProducerConsumerProblem/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProblems/ProducerConsumerProblem/Producer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Strings/ReverseIndividualWordsWithoutExtraSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/ReverseIndividualWordsWithoutExtraSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/ReverseWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +46,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="D:/Android2020/Android_codingwithmitchtutorials/DependencyInjection_codinginflow/DependencyInjection" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BinaryTree" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\SelfLearning\Datastructure\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindTwoNumbersWithoutPair">
-    <configuration name="FindTwoNumbersWithoutPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.rearrange.FindTwoNumbersWithoutPair" />
+  <component name="RunManager" selected="Application.ProducerConsumerDriver">
+    <configuration name="FindCousins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.FindCousins" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.rearrange.*" />
+          <option name="PATTERN" value="BinaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateElementFromSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.RemoveDuplicateElementFromSortedLinkedList" />
+    <configuration name="FindSumPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.FindSumPath" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="BinaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseIndividualWordsWithoutExtraSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ReverseIndividualWordsWithoutExtraSpace" />
+    <configuration name="PatSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.PatSum3" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="BinaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ReverseWords" />
+    <configuration name="ProducerConsumerDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProblems.ProducerConsumerProblem.ProducerConsumerDriver" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="JavaProblems.ProducerConsumerProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.rearrange.findPairs" />
+    <configuration name="SumOfAllBinaryNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTree.SumOfAllBinaryNodes" />
       <module name="Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.rearrange.*" />
+          <option name="PATTERN" value="BinaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindTwoNumbersWithoutPair" />
-        <item itemvalue="Application.ReverseIndividualWordsWithoutExtraSpace" />
-        <item itemvalue="Application.ReverseWords" />
-        <item itemvalue="Application.findPairs" />
-        <item itemvalue="Application.RemoveDuplicateElementFromSortedLinkedList" />
+        <item itemvalue="Application.ProducerConsumerDriver" />
+        <item itemvalue="Application.FindCousins" />
+        <item itemvalue="Application.PatSum3" />
+        <item itemvalue="Application.FindSumPath" />
+        <item itemvalue="Application.SumOfAllBinaryNodes" />
       </list>
     </recent_temporary>
   </component>
@@ -191,42 +187,42 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="427" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1579631858567" />
-    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1580116131846">
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1580489867444">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580116131846" />
-    <state width="1237" height="131" key="GridCell.Tab.0.bottom" timestamp="1580131727920">
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580489867444" />
+    <state width="1237" height="255" key="GridCell.Tab.0.bottom" timestamp="1580893095332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="131" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580131727920" />
-    <state width="1237" height="131" key="GridCell.Tab.0.center" timestamp="1580131727920">
+    <state width="1237" height="255" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580893095332" />
+    <state width="1237" height="255" key="GridCell.Tab.0.center" timestamp="1580893095332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="131" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580131727920" />
-    <state width="1237" height="131" key="GridCell.Tab.0.left" timestamp="1580131727920">
+    <state width="1237" height="255" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580893095332" />
+    <state width="1237" height="255" key="GridCell.Tab.0.left" timestamp="1580893095332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="131" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580131727920" />
-    <state width="1237" height="131" key="GridCell.Tab.0.right" timestamp="1580131727920">
+    <state width="1237" height="255" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580893095332" />
+    <state width="1237" height="255" key="GridCell.Tab.0.right" timestamp="1580893095332">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="131" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580131727920" />
-    <state width="1237" height="201" key="GridCell.Tab.1.bottom" timestamp="1580129776429">
+    <state width="1237" height="255" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580893095332" />
+    <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1580825577689">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580129776429" />
-    <state width="1237" height="201" key="GridCell.Tab.1.center" timestamp="1580129776429">
+    <state width="1237" height="210" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580825577689" />
+    <state width="1237" height="210" key="GridCell.Tab.1.center" timestamp="1580825577688">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580129776429" />
-    <state width="1237" height="201" key="GridCell.Tab.1.left" timestamp="1580129776429">
+    <state width="1237" height="210" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580825577688" />
+    <state width="1237" height="210" key="GridCell.Tab.1.left" timestamp="1580825577688">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580129776429" />
-    <state width="1237" height="201" key="GridCell.Tab.1.right" timestamp="1580129776429">
+    <state width="1237" height="210" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580825577688" />
+    <state width="1237" height="210" key="GridCell.Tab.1.right" timestamp="1580825577688">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580129776429" />
+    <state width="1237" height="210" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580825577688" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1577384495234">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -235,22 +231,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1577333657298" />
-    <state x="348" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1579600233178">
+    <state x="348" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1580891745217">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="348" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579600233178" />
+    <state x="348" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580891745217" />
     <state x="321" y="0" width="638" height="680" key="find.popup" timestamp="1576828809871">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="0" width="638" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576828809871" />
-    <state x="91" y="0" key="new project wizard" timestamp="1580116095955">
+    <state x="91" y="0" key="new project wizard" timestamp="1580489878320">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580116095955" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1577671287529">
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580489878320" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1580725749444">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1577671287529" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1580725749444" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577384206321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -283,6 +279,106 @@
           <url>file://$PROJECT_DIR$/src/Arrays/rearrange/FindTwoNumbersWithoutPair.java</url>
           <line>34</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/ReverseIndividualWordsWithoutExtraSpace.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rearrange/AddOneToNumber.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rearrange/AddOneToNumber.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rearrange/AddOneToNumber.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rearrange/AddOneToNumber.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rearrange/AddOneToNumber.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/twodimensionarray/RotateNinetyDegreeClockwise.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/twodimensionarray/RotateNinetyDegreeClockwise.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/rearrange/FindMissingAndDuplicateNumber.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/InvertTree.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/isTreeIdentical.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/BalancedBinaryTree.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/BalancedBinaryTree.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/BalancedBinaryTree.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/BalancedBinaryTree.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/FindSumPath.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/SumOfAllBinaryNodes.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/FindCousins.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/FindCousins.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTree/FindCousins.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

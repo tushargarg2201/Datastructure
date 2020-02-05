@@ -6,7 +6,8 @@ package Arrays.rotation;
  */
 public class FindMissingNumber {
     public static void main(String[] args) {
-        int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12};
+        //int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12};
+        int arr[] = {3, 1, 2, 5, 3};
         int count1 = 0;
         int count2 = 0;
 
