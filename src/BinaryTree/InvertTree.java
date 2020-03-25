@@ -17,7 +17,7 @@ public class InvertTree {
 
         Node invertNode = invertTreeImpl(tree1);
         System.out.println("After Inversion tree is--->" + invertNode);
-       // preOrderTraversal(invertNode);
+        preOrderTraversal(invertNode);
     }
 
     private static void preOrderTraversal(Node tree) {

@@ -68,12 +68,7 @@ public class FindCousins {
             return level;
         }
         return getLevel(node.right, number, level);
-//        if (level1 > level2) {
-//            return level1;
-//        } else if (level2 > level1) {
-//            return level2;
-//        }
-//        return 0;
+//
     }
 
 

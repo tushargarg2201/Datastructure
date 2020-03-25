@@ -36,7 +36,7 @@ public class LruCache {
         lruCache.put(10, 1);
         lruCache.put(20, 2);
 
-        int value = lruCache.get(20);
+        int value = lruCache.get( 20);
         lruCache.put(30, 3);
         lruCache.put(30, 5);
         //System.out.println("value is" + value);
